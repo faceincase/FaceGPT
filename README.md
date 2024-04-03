@@ -9,8 +9,8 @@
 
 # 🔥 Arguments
 ## Enhancement
-- ⭐ **`/better`** - Improved performance, better responses. 💸
-- ⭐ **`/rewrite`** - Rewrite your text. 💸
+- **`/better`** - Improved performance, better responses. 💸
+- **`/rewrite`** - Rewrite your text. 💸
 
 ## Level-up your text
 - **`/expand`** - Expands your points/paragraphs.
