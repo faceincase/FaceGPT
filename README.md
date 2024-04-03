@@ -57,7 +57,7 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 <br></br>
 | Plan          | Features                                   | Price       |
 | ------------- | ------------------------------------------ | ----------- |
-| Basic         | - 1 User                                   | $10/month  |
+| Basic         | - 1 User                                 | $10/month  |
 | Standard      | - 3 Users                                  | $20/month  |
 | Pro           | - 10 Users                                 | $50/month  |
 | Enterprise    | - Unlimited Users                          | Contact us  |
