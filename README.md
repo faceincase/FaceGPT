@@ -32,20 +32,22 @@
 - **[/pie](http://a)** - 🖼️ 💸
 - **[/mindmap](http://a)** - 🖼️ 💸
 
-## Email generation
-- **[/email](http://a)** - Normal format.
-  - **[/email-formal](http://a)** - Formal format.
-  - **[/email-friendly](http://a)** - Friendly format.
-  - **[/email-funny](http://a)** - Funny format.
+
 
 ## Response formatter
-Edits response
+Those arguments will impact how your response is formatted.
 - **[/pdf](http://a)** - 🖼️ 💸
 - **[/word](http://a)** - 🖼️ 💸
 - **[/short](http://a)** or **[/long](http://a)**
 - **[/hint](http://a)** or **[/answer](http://a)**
 - **[/code](http://a)** - Code only.
 - **[/emote](http://a)** - Emotes only.
+
+### Email generation
+- **[/email](http://a)** - Normal format.
+  - **[/email-formal](http://a)** - Formal format.
+  - **[/email-friendly](http://a)** - Friendly format.
+  - **[/email-funny](http://a)** - Funny format.
 
 ## Others (not sorted yet/in testing)
 
