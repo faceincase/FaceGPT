@@ -27,7 +27,6 @@
 - **[/sum](http://a)** - Short bullet points summary.
   - **[/sum-detail](http://a)** - Detailed bullet points summary.
 
-
 ## Response formatter
 Those arguments will impact how your response is formatted.
 - **[/flowchart](http://a)** - 🖼️ 💸
@@ -36,8 +35,10 @@ Those arguments will impact how your response is formatted.
 <br></br>
 - **[/pdf](http://a)** - 🖼️ 💸
 - **[/word](http://a)** - 🖼️ 💸
-- **[/short](http://a)** or **[/long](http://a)**
-- **[/hint](http://a)** or **[/answer](http://a)**
+- **[/short](http://a)** - Short response.
+- **[/long](http://a)** - Long response.
+- **[/hint](http://a)** - Only a hint of how to get to the answer, not ready asnwer.
+- **[/answer](http://a)** - Only the answer, without explanations and additional context.
 - **[/code](http://a)** - Code only.
 - **[/emote](http://a)** - Emotes only.
 <br></br>
