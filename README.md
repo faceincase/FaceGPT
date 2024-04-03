@@ -7,11 +7,7 @@
 - **[/better](http://a)** - Improved performance, better responses. 💸
 - **[/rewrite](http://a)** - Rewrite your text. 💸
 
-<script>
-  import logo from "super-tiny-icons/images/svg/github.svg";
-</script>
-
-<img src={logo} />;
+<img src="./node_modules/super-tiny-icons/images/svg/github.svg" />
 
 ## Level-up your text
 - **[/expand](http://a)** - Expands your points/paragraphs.
