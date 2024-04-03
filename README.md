@@ -63,3 +63,5 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
   - You can now upload `.PY`, `.JS`, `.HTML` and `.CSS` files!
 - **MESSAGE LENGTH**
   - `BETTER` `10,000` -> `20,000` characters!
+- **REPLIES**
+  - `REPLY CHAIN CAP` `2` -> `16` previous messages!
