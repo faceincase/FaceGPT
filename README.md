@@ -57,8 +57,8 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 <br></br>
 
 # 🔥 LATEST CHANGES
-- **YOUTUBE SUPPORT** (URL SUPPORT)
-  - If a video has transcript, it will be read.
+- **YOUTUBE SUPPORT**
+  - Include a YOUTUBE VIDEO URL, if it has **transcript** it will be read!
 - **FILE SUPPORT**
   - You can now upload `.PY`, `.JS`, `.HTML` and `.CSS` files!
 - **MESSAGE LENGTH**
