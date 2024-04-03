@@ -33,7 +33,7 @@
 - **[/pie](http://a)** - 🖼️ 💸
 - **[/mindmap](http://a)** - 🖼️ 💸
 <br></br>
-- **[/pdf](http://a)** - 🖼️ 💸
+- `/pdf` **[/pdf](http://a)** - 🖼️ 💸
 - **[/word](http://a)** - 🖼️ 💸
 - **[/short](http://a)** - Short response.
 - **[/long](http://a)** - Long response.
