@@ -55,11 +55,11 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 - ⛔ **`/image`** - Generate an image
 
 <br></br>
-| Plan          | Features                                   | Price       |
+| ARGUMENT NAME          | WHAT IT DOES                                   | THINGY       |
 | ------------- | ------------------------------------------ | ----------- |
-| Basic         | - 1 User                                 | $10/month  |
-| Standard      | - 3 Users                                  | $20/month  |
-| Pro           | - 10 Users                                 | $50/month  |
+| **`/pdf`**         | Generate PDF file.                               | $10/month  |
+| **`/word`**      | - 3 Generate WORD (.docx) file.                                 | $20/month  |
+| **`/short`**           | - Short response.                              | $50/month  |
 | Enterprise    | - Unlimited Users                          | Contact us  |
 # 🔥 LATEST CHANGES
 - **YOUTUBE SUPPORT**
