@@ -55,7 +55,11 @@ Arguments in this category are either in **testing**, **not working** or **disab
 - 💸 - Costs more credits (uses better model on default).
 - 🖼️ - Generates graphs or files (png, docx, pdf).
 
-
-
+<br></br>
+<br></br>
+<br></br>
 
 # 🔥 LATEST CHANGES
+
+- **YOUTUBE SUPPORT**
+  - If a video has transcript, it will be read. 
