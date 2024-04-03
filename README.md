@@ -60,4 +60,6 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 - **YOUTUBE SUPPORT** (URL SUPPORT)
   - If a video has transcript, it will be read.
 - **FILE SUPPORT**
-  - You can not uploaed **.PY**, **.JS**, **.HTML** and **.CSS** files!
+  - You can now upload **.PY**, **.JS**, **.HTML** and **.CSS** files!
+- **CHARACTER CAP**
+  - `10,000` -> `20,000`
