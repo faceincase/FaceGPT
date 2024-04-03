@@ -14,16 +14,21 @@
 - **`/rewrite`** - Rewrite your text. 💸
 
 ## Level-up your text
-- **`/expand`** - Expands your points/paragraphs.
-- **`/optimize`** - Focuses on readability.
-- **`/professional`** - More professionalism.
-- **`/citate`** - Get some sources.
+- **`/sum`** - Short bullet points summary.
+  - **`/sum-detail`** - Detailed bullet points summary.
+<br></br>
+- **`/report`** - Detailed report. 💸
+  - **`/report-mini`** - Brief report. 💸
+<br></br>
+- **`/email`** - Normal format.
+  - **`/email-formal`** - Formal format.
+  - **`/email-friendly`** - Friendly format.
+  - **`/email-funny`** - Funny format.
+<br></br>
+
 <br></br>
 - **`/simplify`** - Make your text easier to understand.
 - **`/explain`** - Easy understanding of subject.
-<br></br>
-- **`/quiz`** - Creates a quiz.
-- **`/idea`** - Generates ideas.
 <br></br>
 - **`/flowchart`** - Generate FLOWCHART 🖼️ 💸
 - **`/pie`** - Generate PIE CHART 🖼️ 💸
@@ -36,18 +41,14 @@
 - **`/hint`** - Only a hint of how to get to the answer, not ready asnwer.
 - **`/answer`** - Only the answer, without explanations and additional context.
 - **`/code`** - Code only.
+- **`/expand`** - Expands your points/paragraphs.
+- **`/optimize`** - Focuses on readability.
+- **`/professional`** - More professionalism.
+- **`/citate`** - Get some sources.
+- **`/quiz`** - Creates a quiz.
+- **`/idea`** - Generates ideas.
 - **`/emote`** - Emotes only.
 <br></br>
-- **`/sum`** - Short bullet points summary.
-  - **`/sum-detail`** - Detailed bullet points summary.
-<br></br>
-- **`/report`** - Detailed report. 💸
-  - **`/report-mini`** - Brief report. 💸
-<br></br>
-- **`/email`** - Normal format.
-  - **`/email-formal`** - Formal format.
-  - **`/email-friendly`** - Friendly format.
-  - **`/email-funny`** - Funny format.
 
 ## **Legend:**
 - 💸 - Costs more credits (uses better model on default).
