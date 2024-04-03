@@ -6,7 +6,7 @@
 ## Enhancement
 - **[/better](http://a)** - Improved performance, better responses. 💸
 - **[/rewrite](http://a)** - Rewrite your text. 💸
-
+![YouTube Icon](https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/youtube/youtube.svg)
 ## Level-up your text
 - **[/expand](http://a)** - Expands your points/paragraphs.
 - **[/optimize](http://a)** - Focuses on readability.
