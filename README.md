@@ -9,8 +9,8 @@
 
 # 🔥 Arguments
 ## Enhancement
-- **[/better](http://a)** - Improved performance, better responses. 💸
-- **[/rewrite](http://a)** - Rewrite your text. 💸
+- **`/better`** - Improved performance, better responses. 💸
+- **`/rewrite`** - Rewrite your text. 💸
 
 
 ## Level-up your text
@@ -21,13 +21,13 @@
 - **`/report`** - Detailed report. 💸
 - **`/report-mini`** - Brief report. 💸
 <br></br>
-- **[/simplify](http://a)** - Make your text easier to understand.
-- **[/explain](http://a)** - Easy understanding of subject.
+- **`/simplify`** - Make your text easier to understand.
+- **`/explain`** - Easy understanding of subject.
 <br></br>
-- **[/quiz](http://a)** - Creates a quiz.
-- **[/idea](http://a)** - Generates ideas.
-- **[/sum](http://a)** - Short bullet points summary.
-  - **[/sum-detail](http://a)** - Detailed bullet points summary.
+- **`/quiz`** - Creates a quiz.
+- **`/idea`** - Generates ideas.
+- **`/sum`** - Short bullet points summary.
+  - **`/sum-detail`** - Detailed bullet points summary.
 <br></br>
 - **[/flowchart](http://a)** - 🖼️ 💸
 - **[/pie](http://a)** - 🖼️ 💸
