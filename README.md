@@ -56,8 +56,6 @@ Arguments in this category are either in **testing**, **not working** or **disab
 - 🖼️ - Generates graphs or files (png, docx, pdf).
 
 <br></br>
-<br></br>
-<br></br>
 
 # 🔥 LATEST CHANGES
 
