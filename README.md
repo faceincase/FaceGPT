@@ -17,16 +17,12 @@
 - **`/optimize`** - Focuses on readability.
 - **`/professional`** - More professionalism.
 - **`/citate`** - Get some sources.
-- **`/report`** - Detailed report. 💸
-- **`/report-mini`** - Brief report. 💸
 <br></br>
 - **`/simplify`** - Make your text easier to understand.
 - **`/explain`** - Easy understanding of subject.
 <br></br>
 - **`/quiz`** - Creates a quiz.
 - **`/idea`** - Generates ideas.
-- **`/sum`** - Short bullet points summary.
-  - **`/sum-detail`** - Detailed bullet points summary.
 <br></br>
 - **`/flowchart`** - Generate FLOWCHART 🖼️ 💸
 - **`/pie`** - Generate PIE CHART 🖼️ 💸
@@ -40,6 +36,12 @@
 - **`/answer`** - Only the answer, without explanations and additional context.
 - **`/code`** - Code only.
 - **`/emote`** - Emotes only.
+<br></br>
+- **`/sum`** - Short bullet points summary.
+  - **`/sum-detail`** - Detailed bullet points summary.
+<br></br>
+- **`/report`** - Detailed report. 💸
+  - **`/report-mini`** - Brief report. 💸
 <br></br>
 - **`/email`** - Normal format.
   - **`/email-formal`** - Formal format.
