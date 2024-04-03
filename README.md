@@ -42,10 +42,7 @@
   - **[/email-funny](http://a)** - Funny format.
 
 ## Others
-Arguments in this category are one of those:
- - Disabled
- - In testing
- - Not working
+Arguments in this category are either in **testing**, **not working** or **disabled** for public use.
 - **[/image](http://a)** - Generate an image
 
 **Legend:**
