@@ -41,8 +41,12 @@
   - **[/email-friendly](http://a)** - Friendly format.
   - **[/email-funny](http://a)** - Funny format.
 
-## Others (not sorted yet/in testing)
-
+## Others
+Arguments in this category are one of those:
+ - Disabled
+ - In testing
+ - Not working
+- **[/image](http://a)** - Generate an image
 
 **Legend:**
 - 💸 - Costs more credits (uses better model on default).
