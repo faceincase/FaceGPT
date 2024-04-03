@@ -65,3 +65,5 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
   - `BETTER` `10,000` -> `20,000` characters!
 - **REPLIES**
   - `REPLY CHAIN CAP` `2` -> `16` previous messages!
+- **GENERATED GRAPHICS**
+  - `QUALITY` `480p` -> `2160p (4k)`
