@@ -59,5 +59,5 @@ Arguments in this category are either in **testing**, **not working** or **disab
 
 # 🔥 LATEST CHANGES
 
-- **YOUTUBE SUPPORT** <img src="https:/./.www.youtube.com/.favicon.ico" alt="YouTube Logo" width="50"> 
+- **YOUTUBE SUPPORT** ![YouTube Logo](https://www.youtube.com/favicon.ico)
   - If a video has transcript, it will be read. 
