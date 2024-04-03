@@ -2,7 +2,7 @@
   <h1>FaceGPT</h1>
   <h3>Made using</h3>
   
-  [[[![Made]([https://skillicons.dev/icons?i=js,py,node](https://skillicons.dev/icons?i=js,py,nodejs,cpp,discordjs,discord))](https://skillicons.dev)]]
+  [![Made](h[ttps://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=js,py,node](https://skillicons.dev/icons?i=js,py,nodejs,cpp,discordjs,discord))](https://skillicons.dev)
   
 </div>
 
