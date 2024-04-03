@@ -30,7 +30,6 @@
 
 ## Response formatter
 Those arguments will impact how your response is formatted.
-
 - **[/flowchart](http://a)** - 🖼️ 💸
 - **[/pie](http://a)** - 🖼️ 💸
 - **[/mindmap](http://a)** - 🖼️ 💸
