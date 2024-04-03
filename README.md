@@ -57,7 +57,7 @@ Arguments in this category are either in **testing**, **not working** or **disab
 
 <br></br>
 
-# 🔥 LATEST CHANGES ![YouTube Logo](https://www.youtube.com/favicon.ico)
+# 🔥 LATEST CHANGES
 
-- **YOUTUBE SUPPORT**
+- **YOUTUBE SUPPORT** ![YouTube Logo](https://www.youtube.com/favicon.ico)
   - If a video has transcript, it will be read. 
