@@ -1,8 +1,10 @@
 <div align="center">
   <h1>FaceGPT</h1>
+  <br></br>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 # 🔥 Arguments
 ## Enhancement
