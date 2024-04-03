@@ -33,7 +33,9 @@
 
 ## Email generation
 - **[/email](http://a)** - Normal format.
- - \`/email-formal\`, \`/email-friendly\`, \`/email-funny\`
+ - **[/email-formal](http://a)**
+ - **[/email-friendly](http://a)**
+ - **[/email-funny](http://a)**
 
 ## Response formatter
 - **[/pdf](http://a)** - 🖼️ ${COIN}
