@@ -55,7 +55,12 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 - ⛔ **`/image`** - Generate an image
 
 <br></br>
-
+| Plan          | Features                                   | Price       |
+| ------------- | ------------------------------------------ | ----------- |
+| Basic         | - 1 User                                   | $10/month  |
+| Standard      | - 3 Users                                  | $20/month  |
+| Pro           | - 10 Users                                 | $50/month  |
+| Enterprise    | - Unlimited Users                          | Contact us  |
 # 🔥 LATEST CHANGES
 - **YOUTUBE SUPPORT**
   - Include a `YOUTUBE VIDEO URL`, if it has **transcript** it will be read!
