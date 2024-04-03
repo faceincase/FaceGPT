@@ -1,6 +1,6 @@
 # FaceGPT
 
-# Arguments
+# 🔥 Arguments
 ## Enhancement
 - **[/better](http://a)** - Improved performance, better responses. ${COIN}
 - **[/rewrite](http://a)** - Rewrite your text. ${COIN}
