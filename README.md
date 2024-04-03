@@ -55,7 +55,11 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 - ⛔ **`/image`** - Generate an image
 
 <br></br>
-
+```
+WHOT
+```
 # 🔥 LATEST CHANGES
+- **YOUTUBE SUPPORT** (URL SUPPORT)
+  - If a video has transcript, it will be read.
 - **YOUTUBE SUPPORT**
   - If a video has transcript, it will be read. 
