@@ -58,7 +58,7 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 
 # 🔥 LATEST CHANGES
 - **YOUTUBE SUPPORT**
-  - Include a YOUTUBE VIDEO URL, if it has **transcript** it will be read!
+  - Include a `YOUTUBE VIDEO URL`, if it has **transcript** it will be read!
 - **FILE SUPPORT**
   - You can now upload `.PY`, `.JS`, `.HTML` and `.CSS` files!
 - **MESSAGE LENGTH**
