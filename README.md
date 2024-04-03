@@ -12,7 +12,6 @@
 - **`/better`** - Improved performance, better responses. 💸
 - **`/rewrite`** - Rewrite your text. 💸
 
-
 ## Level-up your text
 - **`/expand`** - Expands your points/paragraphs.
 - **`/optimize`** - Focuses on readability.
@@ -29,9 +28,9 @@
 - **`/sum`** - Short bullet points summary.
   - **`/sum-detail`** - Detailed bullet points summary.
 <br></br>
-- **`/flowchart`** - 🖼️ 💸
-- **`/pie`** - 🖼️ 💸
-- **`/mindmap`** - 🖼️ 💸
+- **`/flowchart`** - 🖼️ 💸 Generate FLOWCHART (.png)
+- **`/pie`** - 🖼️ 💸 Generate PIE CHART (.png)
+- **`/mindmap`** - 🖼️ 💸 Generate MIND MAP (.png)
 <br></br>
 - **`/pdf`** - 🖼️ 💸 Generate PDF file.
 - **`/word`** - 🖼️ 💸 Generate WORD (.docx) file.
