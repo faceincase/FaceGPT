@@ -55,12 +55,13 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 - ⛔ **`/image`** - Generate an image
 
 <br></br>
-| ARGUMENT NAME          | WHAT IT DOES                                   | THINGY       |
-| ------------- | ------------------------------------------ | ----------- |
-| **`/pdf`**         | Generate PDF file.                               | $10/month  |
-| **`/word`**      | - 3 Generate WORD (.docx) file.                                 | $20/month  |
-| **`/short`**           | - Short response.                              | $50/month  |
-| Enterprise    | - Unlimited Users                          | Contact us  |
+| ARGUMENT NAME    | WHAT IT DOES                                   | THINGY       |
+| -------------    | ------------------------------------------ | ----------- |
+| **`/pdf`**       | Generate PDF file.                          | 🖼️ 💸  |
+| **`/word`**      | Generate WORD (.docx) file.                  | 🖼️ 💸  |
+| **`/short`**     | Short response.                              |   |
+
+
 # 🔥 LATEST CHANGES
 - **YOUTUBE SUPPORT**
   - Include a `YOUTUBE VIDEO URL`, if it has **transcript** it will be read!
