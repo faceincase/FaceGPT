@@ -53,7 +53,7 @@
 ## Others
 Arguments in this category are either in **testing**, **not working** or ⛔ **disabled** for public use.
 - ⛔ **`/image`** - Generate an image
-
+<!---         adwadwawddaw      -->
 <br></br>
 | ARGUMENT NAME    | WHAT IT DOES                                   | THINGY       |
 | -------------    | ------------------------------------------ | ----------- |
