@@ -59,5 +59,5 @@ Arguments in this category are either in **testing**, **not working** or **disab
 
 # 🔥 LATEST CHANGES
 
-- **YOUTUBE SUPPORT** ![YouTube Logo]([https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg])
+- **YOUTUBE SUPPORT** ![YouTube Logo](https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg)
   - If a video has transcript, it will be read. 
