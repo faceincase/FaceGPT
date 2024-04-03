@@ -39,6 +39,7 @@
   - **[/email-funny](http://a)** - Funny format.
 
 ## Response formatter
+Edits response
 - **[/pdf](http://a)** - 🖼️ 💸
 - **[/word](http://a)** - 🖼️ 💸
 - **[/short](http://a)** or **[/long](http://a)**
