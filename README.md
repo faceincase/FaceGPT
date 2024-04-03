@@ -61,7 +61,7 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
   - Include a `YOUTUBE VIDEO URL`, if it has **transcript** it will be read!
 - **FILE SUPPORT**
   - You can now upload `.PY`, `.JS`, `.HTML` and `.CSS` files!
-  - In total supporting: `[".png", ".jpg", ".txt", ".rtf", ".docx", ".pptx", ".xlsx", ".odt", ".odp", ".ods", ".pdf", ".py", ".js", ".html"]`
+  - In total its now supporting `14` different file types!
 - **MESSAGE LENGTH**
   - `BETTER` `10,000` -> `20,000` characters!
 - **REPLIES**
