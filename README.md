@@ -47,7 +47,7 @@
   - **`/email-funny`** - Funny format.
 
 ## Others
-Arguments in this category are either in **testing**, **not working** or **disabled** for public use.
+Arguments in this category are either in **testing**, **not working** or ⛔ **disabled** for public use.
 - ⛔ **`/image`** - Generate an image
 
 ## **Legend:**
