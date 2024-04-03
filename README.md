@@ -12,23 +12,17 @@
 - **[/optimize](http://a)** - Focuses on readability.
 - **[/professional](http://a)** - More professionalism.
 - **[/citate](http://a)** - Get some sources.
-
-## Reporting
 - **[/report](http://a)** - Detailed report. 💸
 - **[/report-mini](http://a)** - Brief report. 💸
-
-## Get a better idea
+<br></br>
 - **[/simplify](http://a)** - Make your text easier to understand.
 - **[/explain](http://a)** - Easy understanding of subject.
-
-## Some more
+<br></br>
 - **[/quiz](http://a)** - Creates a quiz.
 - **[/idea](http://a)** - Generates ideas.
 - **[/sum](http://a)** - Short bullet points summary.
   - **[/sum-detail](http://a)** - Detailed bullet points summary.
-
-## Response formatter
-Those arguments will impact how your response is formatted.
+<br></br>
 - **[/flowchart](http://a)** - 🖼️ 💸
 - **[/pie](http://a)** - 🖼️ 💸
 - **[/mindmap](http://a)** - 🖼️ 💸
