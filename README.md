@@ -33,8 +33,8 @@
 - **`/pie`** - 🖼️ 💸
 - **`/mindmap`** - 🖼️ 💸
 <br></br>
-- **`/pdf`** - 🖼️ 💸
-- **`/word`** - 🖼️ 💸
+- **`/pdf`** - 🖼️ 💸 Generate PDF file.
+- **`/word`** - 🖼️ 💸 Generate WORD (.docx) file.
 - **`/short`** - Short response.
 - **`/long`** - Long response.
 - **`/hint`** - Only a hint of how to get to the answer, not ready asnwer.
