@@ -1,8 +1,8 @@
 <div align="center">
   <h1>FaceGPT</h1>
-  Made using:
+  <h3>Made using</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [[![My Skills](https://skillicons.dev/icons?i=js,py,node)](https://skillicons.dev)]
   
 </div>
 
