@@ -14,8 +14,8 @@
 - **[/citate](http://a)** - Get some sources.
 
 ## Reporting
-- **[/report](http://a)** - Detailed report. ${COIN}
-- **[/report-mini](http://a)** - Brief report. ${COIN}
+- **[/report](http://a)** - Detailed report. 💸
+- **[/report-mini](http://a)** - Brief report. 💸
 
 ## Get a better idea
 - **[/simplify](http://a)** - Make your text easier to understand.
@@ -27,9 +27,9 @@
 - **[/sum](http://a)** - Bullet points summary.
 
 ## Graph generation
-- **[/flowchart](http://a)** - 🖼️ ${COIN}
-- **[/pie](http://a)** - 🖼️ ${COIN}
-- **[/mindmap](http://a)** - 🖼️ ${COIN}
+- **[/flowchart](http://a)** - 🖼️ 💸
+- **[/pie](http://a)** - 🖼️ 💸
+- **[/mindmap](http://a)** - 🖼️ 💸
 
 ## Email generation
 - **[/email](http://a)** - Normal format.
@@ -38,13 +38,13 @@
   - **[/email-funny](http://a)** - Funny format.
 
 ## Response formatter
-- **[/pdf](http://a)** - 🖼️ ${COIN}
-- **[/word](http://a)** - 🖼️ ${COIN}
-- \`/short\` or \`/long\`
-- **[/hint](http://a)** or \`/answer\`
+- **[/pdf](http://a)** - 🖼️ 💸
+- **[/word](http://a)** - 🖼️ 💸
+- **[/short](http://a)** or **[/long](http://a)**
+- **[/hint](http://a)** or **[/answer](http://a)**
 - **[/code](http://a)** - Code only.
-- \`/emote\` - Emotes only.
+- **[/emote](http://a)** - Emotes only.
 
 **Legend:**
-- ${COIN} - Costs more credits (uses better model on default).
+- 💸 - Costs more credits (uses better model on default).
 - 🖼️ - Generates graphs or files (png, docx, pdf).
