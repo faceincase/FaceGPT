@@ -1,4 +1,6 @@
-# FaceGPT
+<center>
+  # FaceGPT
+</center>
 
 # 🔥 Arguments
 ## Enhancement
