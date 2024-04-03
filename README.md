@@ -4,8 +4,8 @@
 
 # 🔥 Arguments
 ## Enhancement
-- **[/better](http://a)** - Improved performance, better responses. ${COIN}
-- **[/rewrite](http://a)** - Rewrite your text. ${COIN}
+- **[/better](http://a)** - Improved performance, better responses. 💸
+- **[/rewrite](http://a)** - Rewrite your text. 💸
 
 ## Level-up your text
 - **[/expand](http://a)** - Expands your points/paragraphs.
