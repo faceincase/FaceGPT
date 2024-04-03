@@ -48,3 +48,8 @@ Arguments in this category are either in **testing**, **not working** or **disab
 **Legend:**
 - 💸 - Costs more credits (uses better model on default).
 - 🖼️ - Generates graphs or files (png, docx, pdf).
+
+
+
+
+# 🔥 LATEST CHANGES
