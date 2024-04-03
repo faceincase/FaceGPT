@@ -27,15 +27,14 @@
 - **[/sum](http://a)** - Short bullet points summary.
   - **[/sum-detail](http://a)** - Detailed bullet points summary.
 
-## Graph generation
+
+## Response formatter
+Those arguments will impact how your response is formatted.
+
 - **[/flowchart](http://a)** - 🖼️ 💸
 - **[/pie](http://a)** - 🖼️ 💸
 - **[/mindmap](http://a)** - 🖼️ 💸
 
-
-
-## Response formatter
-Those arguments will impact how your response is formatted.
 - **[/pdf](http://a)** - 🖼️ 💸
 - **[/word](http://a)** - 🖼️ 💸
 - **[/short](http://a)** or **[/long](http://a)**
@@ -43,7 +42,6 @@ Those arguments will impact how your response is formatted.
 - **[/code](http://a)** - Code only.
 - **[/emote](http://a)** - Emotes only.
 
-### Email generation
 - **[/email](http://a)** - Normal format.
   - **[/email-formal](http://a)** - Formal format.
   - **[/email-friendly](http://a)** - Friendly format.
