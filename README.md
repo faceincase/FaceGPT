@@ -32,10 +32,10 @@
 - **[/mindmap](http://a)** - 🖼️ ${COIN}
 
 ## Email generation
-1. **[/email](http://a)** - Normal format.
- - **[/email-formal](http://a)**
- - **[/email-friendly](http://a)**
- - **[/email-funny](http://a)**
+- **[/email](http://a)** - Normal format.
+  - **[/email-formal](http://a)**
+  - **[/email-friendly](http://a)**
+  - **[/email-funny](http://a)**
 
 ## Response formatter
 - **[/pdf](http://a)** - 🖼️ ${COIN}
