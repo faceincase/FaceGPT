@@ -1,7 +1,6 @@
 # FaceGPT
-General files / tutorials for FaceGPT.
-# Command Page
 
+# Arguments
 ## Enhancement
 - **[/better](http://a)** - Improved performance, better responses. ${COIN}
 - **[/rewrite](http://a)** - Rewrite your text. ${COIN}
