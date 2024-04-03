@@ -33,14 +33,14 @@ Those arguments will impact how your response is formatted.
 - **[/flowchart](http://a)** - 🖼️ 💸
 - **[/pie](http://a)** - 🖼️ 💸
 - **[/mindmap](http://a)** - 🖼️ 💸
-.
+<br>
 - **[/pdf](http://a)** - 🖼️ 💸
 - **[/word](http://a)** - 🖼️ 💸
 - **[/short](http://a)** or **[/long](http://a)**
 - **[/hint](http://a)** or **[/answer](http://a)**
 - **[/code](http://a)** - Code only.
 - **[/emote](http://a)** - Emotes only.
-.
+<br>
 - **[/email](http://a)** - Normal format.
   - **[/email-formal](http://a)** - Formal format.
   - **[/email-friendly](http://a)** - Friendly format.
