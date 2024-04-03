@@ -48,7 +48,7 @@
 
 ## Others
 Arguments in this category are either in **testing**, **not working** or **disabled** for public use.
-- **`/image`** - Generate an image
+- ⛔ **`/image`** - Generate an image
 
 ## **Legend:**
 - 💸 - Costs more credits (uses better model on default).
