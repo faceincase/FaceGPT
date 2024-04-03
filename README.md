@@ -28,9 +28,9 @@
 - **`/sum`** - Short bullet points summary.
   - **`/sum-detail`** - Detailed bullet points summary.
 <br></br>
-- **`/flowchart`** - 🖼️ 💸 Generate FLOWCHART (.png)
-- **`/pie`** - 🖼️ 💸 Generate PIE CHART (.png)
-- **`/mindmap`** - 🖼️ 💸 Generate MIND MAP (.png)
+- **`/flowchart`** - 🖼️ 💸 Generate FLOWCHART
+- **`/pie`** - 🖼️ 💸 Generate PIE CHART
+- **`/mindmap`** - 🖼️ 💸 Generate MIND MAP
 <br></br>
 - **`/pdf`** - 🖼️ 💸 Generate PDF file.
 - **`/word`** - 🖼️ 💸 Generate WORD (.docx) file.
