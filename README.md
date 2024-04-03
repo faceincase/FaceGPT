@@ -76,3 +76,4 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
   - `REPLY CHAIN CAP` `2` -> `16` previous messages!
 - **GENERATED GRAPHICS**
   - `QUALITY` `480p` -> `2160p (4k)`
+  - Graphs are now `TRANSPARENT`
