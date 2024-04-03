@@ -1,7 +1,7 @@
 <div align="center">
   <h1>FaceGPT</h1>
-  Currently running on Discord.
-  Soon on WhatsApp & Web.
+  Currently running on `Discord`.
+  Soon on `WhatsApp` & `Web`.
   
   <h3>Made using</h3>
   
