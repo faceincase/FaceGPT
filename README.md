@@ -2,12 +2,13 @@
   <h1>FaceGPT</h1>
 </div>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 # 🔥 Arguments
 ## Enhancement
 - **[/better](http://a)** - Improved performance, better responses. 💸
 - **[/rewrite](http://a)** - Rewrite your text. 💸
 
-<img src="[./node_modules/super-tiny-icons/images/svg/github.svg](https://camo.githubusercontent.com/a57a6d6ab9659de0e830d117339e092c7976177a309572210383374fbfd2e004/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667)" />
 
 ## Level-up your text
 - **[/expand](http://a)** - Expands your points/paragraphs.
