@@ -1,5 +1,5 @@
 <div align="center">
-  # FaceGPT
+  <h1>FaceGPT</h1>
 </div>
 
 # 🔥 Arguments
