@@ -24,7 +24,8 @@
 ## Some more
 - **[/quiz](http://a)** - Creates a quiz.
 - **[/idea](http://a)** - Generates ideas.
-- **[/sum](http://a)** - Bullet points summary.
+- **[/sum](http://a)** - Short bullet points summary.
+  - **[/sum-detail](http://a)** - Detailed bullet points summary.
 
 ## Graph generation
 - **[/flowchart](http://a)** - 🖼️ 💸
@@ -44,6 +45,9 @@
 - **[/hint](http://a)** or **[/answer](http://a)**
 - **[/code](http://a)** - Code only.
 - **[/emote](http://a)** - Emotes only.
+
+## Others (not sorted yet/in testing)
+
 
 **Legend:**
 - 💸 - Costs more credits (uses better model on default).
