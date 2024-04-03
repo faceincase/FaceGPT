@@ -14,12 +14,12 @@
 
 
 ## Level-up your text
-- `/expand` - Expands your points/paragraphs.
+- **`/expand`** - Expands your points/paragraphs.
 - **`/optimize`** - Focuses on readability.
-- `/professional` - More professionalism.
-- `/citate` - Get some sources.
-- `/report` - Detailed report. 💸
-- `/report-mini`* - Brief report. 💸
+- **`/professional`** - More professionalism.
+- **`/citate`** - Get some sources.
+- **`/report`** - Detailed report. 💸
+- **`/report-mini`** - Brief report. 💸
 <br></br>
 - **[/simplify](http://a)** - Make your text easier to understand.
 - **[/explain](http://a)** - Easy understanding of subject.
