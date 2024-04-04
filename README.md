@@ -103,5 +103,6 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 
 ![image](https://github.com/faceincase/FaceGPT/assets/83787101/f09c0ea0-5b86-44a7-bfde-b797ead84c4a)
 <br></br>
-- **`/better`** emote changed to `✨`
+- **EMOTE CHANGES**
+  - **`/better`** emote changed to `✨`
 
