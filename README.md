@@ -75,6 +75,7 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
   - Now provides `100%` reliable sources and url's
 - **YOUTUBE SUPPORT**
   - Include a `YOUTUBE VIDEO URL`, if it has **transcript** it will be read!
+  - ![image](https://github.com/faceincase/FaceGPT/assets/83787101/f4bd334d-bfcf-4360-8817-648ffd2c730d)
 - **FILE SUPPORT**
   - You can now upload `.PY`, `.JS`, `.HTML` and `.CSS` files!
   - In total its now supporting `14` different file types!
