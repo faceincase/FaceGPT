@@ -73,7 +73,6 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
   - Complete rework of the command, improved input and output handling.
   - Works `3x` faster
   - Now provides `100%` reliable sources and url's
-  - Citate performance `240%` better!
 - **YOUTUBE SUPPORT**
   - Include a `YOUTUBE VIDEO URL`, if it has **transcript** it will be read!
 - **FILE SUPPORT**
