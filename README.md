@@ -1,6 +1,6 @@
 <div align="center">
   <h1>FaceGPT</h1>
-
+  Most advanced and dependable tool to support you on your academic journey, with endless capabilities. 
   <h3>Made using</h3>
   
   ![Made](https://skillicons.dev/icons?i=js,py,nodejs,cpp,discordjs,discord)
