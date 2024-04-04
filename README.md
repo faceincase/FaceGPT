@@ -73,19 +73,22 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
   - Complete rework of the command, improved input and output handling.
   - Works `3x` faster
   - Now provides `100%` reliable sources and url's
+<br></br>
 - **YOUTUBE SUPPORT**
   - Include a `YOUTUBE VIDEO URL`, if it has **transcript** it will be read!
     
 ![image](https://github.com/faceincase/FaceGPT/assets/83787101/f4bd334d-bfcf-4360-8817-648ffd2c730d)
+<br></br>
 - **FILE SUPPORT**
   - You can now upload `.PY`, `.JS`, `.HTML` and `.CSS` files!
   - In total its now supporting `14` different file types!
-
+<br></br>
 - **MESSAGE LENGTH**
   - `BETTER` `10,000` -> `20,000` characters!
-
+<br></br>
 - **REPLIES**
   - `REPLY CHAIN CAP` `2` -> `16` previous messages!
+<br></br>
 - **GENERATED GRAPHICS**
   - `QUALITY` `480p` -> `2160p (4k)`
   - Graphs are now `TRANSPARENT`
