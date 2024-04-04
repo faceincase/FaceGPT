@@ -25,8 +25,6 @@
   - **`/email-friendly`** - Friendly format.
   - **`/email-funny`** - Funny format.
 <br></br>
-
-<br></br>
 - **`/simplify`** - Make your text easier to understand.
 - **`/explain`** - Easy understanding of subject.
 <br></br>
