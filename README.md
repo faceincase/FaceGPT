@@ -85,7 +85,7 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 <br></br>
 - **FILE GENERATION**
   - Model is now capable of generating files.
-  - Currently supporting: `.py` and `.js`
+  - Currently supporting: `py`, `js`, `html`, `css`, `cpp`, `c`, `csharp`
 <br></br>
 - **MESSAGE LENGTH**
   - `BETTER` `10,000` -> `20,000` characters!
