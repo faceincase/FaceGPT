@@ -89,7 +89,7 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
   - Model is now capable of generating files.
   - Currently supporting: `py`, `js`, `html`, `css`, `cpp`, `c`, `csharp`
 
-![image](https://github.com/faceincase/FaceGPT/assets/83787101/261e4f31-94f8-4b45-b106-9c8264134a02)
+![image](https://github.com/faceincase/FaceGPT/assets/83787101/7a0500ac-6ad1-4f49-aa80-bbc1273d3003)
 <br></br>
 - **MESSAGE LENGTH**
   - `BETTER` `10,000` -> `20,000` characters!
