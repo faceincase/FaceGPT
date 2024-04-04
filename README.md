@@ -100,7 +100,8 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 - **GENERATED GRAPHICS**
   - `QUALITY` `480p` -> `2160p (4k)`
   - Graphs are now `TRANSPARENT`
-- **`/better`** emote changed to `✨`
 
 ![image](https://github.com/faceincase/FaceGPT/assets/83787101/f09c0ea0-5b86-44a7-bfde-b797ead84c4a)
+<br></br>
+- **`/better`** emote changed to `✨`
 
