@@ -82,10 +82,14 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 - **FILE SUPPORT**
   - You can now upload `.PY`, `.JS`, `.HTML` and `.CSS` files!
   - In total its now supporting `14` different file types!
+
+![image](https://github.com/faceincase/FaceGPT/assets/83787101/070867d6-9079-43fd-89b6-274c920d9e5b)
 <br></br>
 - **FILE GENERATION**
   - Model is now capable of generating files.
   - Currently supporting: `py`, `js`, `html`, `css`, `cpp`, `c`, `csharp`
+
+![image](https://github.com/faceincase/FaceGPT/assets/83787101/261e4f31-94f8-4b45-b106-9c8264134a02)
 <br></br>
 - **MESSAGE LENGTH**
   - `BETTER` `10,000` -> `20,000` characters!
