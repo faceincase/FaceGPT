@@ -83,6 +83,10 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
   - You can now upload `.PY`, `.JS`, `.HTML` and `.CSS` files!
   - In total its now supporting `14` different file types!
 <br></br>
+- **FILE GENERATION**
+  - Model is now capable of generating files.
+  - Currently supporting: `.py` and `.js`
+<br></br>
 - **MESSAGE LENGTH**
   - `BETTER` `10,000` -> `20,000` characters!
 <br></br>
