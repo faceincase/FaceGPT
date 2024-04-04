@@ -75,7 +75,6 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
   - Now provides `100%` reliable sources and url's
 
 ![image](https://github.com/faceincase/FaceGPT/assets/83787101/2735bfef-ca27-4c5a-af90-7ac52886cbf6)
-
 <br></br>
 - **YOUTUBE SUPPORT**
   - Include a `YOUTUBE VIDEO URL`, if it has **transcript** it will be read!
