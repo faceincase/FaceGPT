@@ -80,8 +80,10 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 - **FILE SUPPORT**
   - You can now upload `.PY`, `.JS`, `.HTML` and `.CSS` files!
   - In total its now supporting `14` different file types!
+
 - **MESSAGE LENGTH**
   - `BETTER` `10,000` -> `20,000` characters!
+
 - **REPLIES**
   - `REPLY CHAIN CAP` `2` -> `16` previous messages!
 - **GENERATED GRAPHICS**
