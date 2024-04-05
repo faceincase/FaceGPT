@@ -28,7 +28,9 @@
 - **`/simplify`** - Make your text easier to understand.
 - **`/explain`** - Easy understanding of subject.
 <br></br>
+
 <h3>GRAPH GENERATION</h3>
+
 - **`/flowchart`** - Generate FLOWCHART 🖼️ 💸
 - **`/pie`** - Generate PIE CHART 🖼️ 💸
 - **`/mindmap`** - Generate MIND MAP 🖼️ 💸
