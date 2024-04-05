@@ -27,7 +27,6 @@
 <br></br>
 - **`/simplify`** - Make your text easier to understand.
 - **`/explain`** - Easy understanding of subject.
-<br></br>
 
 <h3>GRAPH GENERATION</h3>
 
