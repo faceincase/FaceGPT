@@ -43,6 +43,7 @@
 - **`/optimize`** - Focuses on readability.
 - **`/professional`** - More professionalism.
 - **`/citate`** - Get some sources.
+   - **`/ultra-citate`** - Get some sources.
 - **`/quiz`** - Creates a quiz.
 - **`/idea`** - Generates ideas.
 - **`/emote`** - Emotes only.
