@@ -70,6 +70,19 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 -->
 
 # 🔥 LATEST CHANGES
+
+- **URL EMBEDING FIX**
+  - Fixed issue with wrongly embedded URLs in responses (known as the `> bug`).
+  - Additionally, improved URL embedding for improved display. 
+
+- **`INTERNET ACCESS` (tests)**
+  - Searches increased `2` -> `16`
+  - Enhanced internet search performance in size, quality, and speed.
+
+- **`INTERNET ACCESS` (tests)**
+  - Started development on new `default internet access` module to enhance FaceGPT's capabilities.
+  - Not publicly available.
+
 - **`/CITATE` REWORK**
   - Complete rework of the command, improved input and output handling.
   - Works `3x` faster
