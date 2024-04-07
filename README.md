@@ -71,6 +71,10 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 
 # 🔥 LATEST CHANGES
 
+- **RESPONSE MARKDOWN**
+  - We have improved the markdown in our messages, though it is currently not supported for every response type.
+  - Now, markdown will be automatically removed for file output, so don't worry about getting weird characters in your file outputs.
+    
 - **URL EMBEDING FIX**
   - Fixed issue with wrongly embedded URLs in responses (known as the `> bug`).
   - Additionally, improved URL embedding for improved display. 
