@@ -51,7 +51,7 @@
 - **`/emote`** - Emotes only.
 <br></br>
 
-## **Legend:**
+### **Legend:**
 - 💸 - Costs more credits (uses better model on default).
 - 🖼️ - Generates graphs or files (png, docx, pdf).
 
