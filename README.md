@@ -79,7 +79,7 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 
 - **URL EMBEDING FIX**
   - Fixed issue with wrongly embedded URLs in responses (known as the `> bug`).
-  - Additionally, improved URL embedding for improved display. 
+  - Additionally, improved URL embedding for better display. 
 
 - **`INTERNET ACCESS` (tests)**
   - Searches increased `2` -> `16`
