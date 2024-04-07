@@ -71,6 +71,11 @@ Arguments in this category are either in **testing**, **not working** or ⛔ **d
 
 # 🔥 LATEST CHANGES
 
+
+- **EXTRA ARGUMENTS (?)**
+  - We are working on new enhanced **`EXTRA`** arguments added for generating extended content beyond original scope, providing up to 15x more data for manual use.
+  - **`EXTRA`** Arguments will be enhanced versions of few already existing ones.
+
 - **RESPONSE MARKDOWN**
   - We have improved the markdown in our messages, though it is currently not supported for every response type.
   - Now, markdown will be automatically removed for file output, so don't worry about getting weird characters in your file outputs.
