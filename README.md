@@ -16,6 +16,7 @@ This section is about available custom models FaceGPT can offer.
 
 ### 🌟 `FaceGPT Mini` 🌟
 Max `100,000 characters`
+<br>
 Very `fast`
 
 ---
