@@ -14,7 +14,7 @@ This section is about available custom models FaceGPT can offer.
 
 ---
 
-### `FaceGPT Mini`
+### `🌟 FaceGPT Mini 🌟`
 
 Default model.
 <br>
