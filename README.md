@@ -14,7 +14,7 @@
 
 ---
 
-### `FACEGPT Mini`
+# `FACEGPT Mini`
 
 Default model.
 <br>
