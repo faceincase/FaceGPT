@@ -42,7 +42,7 @@ Maximum input: `30,000 characters`
 Supports both `file` and `image` inputs
 <br>
 This model is `slow`
-### Why?
+### Use case
 This model is perfect for `hard` and `complicated` tasks.
 
 ---
