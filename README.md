@@ -10,7 +10,7 @@
 
 <br><br><br><br><br><br>
   
-# 🤖 `**MODELS**` 🤖 
+# 🤖 __`MODELS`__ 🤖 
 This section is about available custom models FaceGPT can offer.
 
 ---
