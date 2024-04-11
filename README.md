@@ -4,6 +4,10 @@
   <h3>Made using</h3>
   
   ![Made](https://skillicons.dev/icons?i=js,py,nodejs,cpp,discordjs,discord)
+
+
+
+  # MINI
   
 </div>
 
