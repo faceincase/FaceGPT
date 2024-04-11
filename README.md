@@ -19,9 +19,9 @@
 
 | Model | Parameters | Context | Vision | Speed |
 | --- | --- | --- | --- | --- |
-| MINI | 170,000 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| NORMAL | 15,000 | :x: | :x: | :white_check_mark: |
-| BETTER | 20,000 | :white_check_mark: | :x: | :x: |
+| MINI | 170,000 | HAS | - [ ] | FASTEST |
+| NORMAL | 15,000 | NO | - [x] | FAST |
+| BETTER | 20,000 | HAS | - [ ] | SLOWEST |
 
 # 🔥 Arguments
 ## Enhancement
