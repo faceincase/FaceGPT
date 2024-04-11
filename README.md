@@ -10,7 +10,7 @@
   
 # MODELS
 
-</div>
+
 
 | MODEL NAME | MAXIMUM INPUT | CREDITS USAGE | SPEED     | 
 | ---------- | ------------- | ------------- | --------- | 
@@ -19,6 +19,7 @@
 | (???)      | (???)         | (???)         | (???)     | 
 | BETTER     | 20,000        | HIGHEST       | SLOW      | 
 
+</div>
 
 # 📰 News
 - Initiated development of new model - **`FaceGPT Mini 🌟`**
