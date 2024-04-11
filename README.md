@@ -26,12 +26,16 @@ Supports `file inputs` and `image inputs`
 ### 😐 `FaceGPT Normal` 😐 
 Maximum input: `10,000 characters`
 <br>
+Supports `file inputs`
+<br>
 `fast`
 
 ---
 
 ### ✨ `FaceGPT Better` ✨
 Maximum input: `30,000 characters`
+<br>
+Supports `file inputs` and `image inputs`
 <br>
 `Slower model`
 
