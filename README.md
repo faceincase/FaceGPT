@@ -17,11 +17,11 @@
 ![image](https://github.com/faceincase/FaceGPT/assets/83787101/18b16a45-1a43-43af-8327-a05378b9cf17)
 
 
-| Model | Parameters | Context | Vision | Speed |
-| --- | --- | --- | --- | --- |
-| MINI | 170,000 | HAS | [ ] | FASTEST |
-| NORMAL | 15,000 | NO | [x] | FAST |
-| BETTER | 20,000 | HAS | [ ] | SLOWEST |
+| Model | Max Characters | Vision | Speed |
+| --- | --- | --- | --- |
+| MINI | 170,000 | :white_check_mark: | Fastest |
+| NORMAL | 15,000 | :x: | Fast |
+| BETTER | 20,000 | :white_check_mark: | Slowest |
 
 # 🔥 Arguments
 ## Enhancement
