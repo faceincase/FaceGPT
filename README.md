@@ -54,7 +54,7 @@ Credits usage `high`
 ### 🔧 Use case 🔧
 This model is perfect for `hard` and `complicated` tasks.
 <br>
-It is recommended to use this model to do `more advanced code`, `maths` and other tasks that require a `lot of processing`.
+It is recommended to use this model to do `more advanced code`, `maths` and tasks that require a `lot of processing`.
 
 ---
 
