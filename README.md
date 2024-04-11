@@ -12,7 +12,7 @@
 
 
 
-| **MODEL NAME** | **MAXIMUM INPUT** | **CREDITS USAGE** | **SPEED**     | 
+| ***MODEL NAME*** | ***MAXIMUM INPUT*** | ***CREDITS USAGE*** | ***SPEED***     | 
 | ---------- | ------------- | ------------- | --------- | 
 | MINI       | 170,000       | VERY LOW      | VERY FAST | 
 | NORMAL     | 15,000        | LOW           | FAST      | 
