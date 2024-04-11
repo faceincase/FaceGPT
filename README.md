@@ -9,9 +9,11 @@
 
 # MODELS
 
-## WHAT
+### FaceGPT Mini
 
-## WHAT
+### FaceGPT Normal
+
+### FaceGPT Better
   
 </div>
 
