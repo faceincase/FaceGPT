@@ -21,7 +21,9 @@ Supports both `file` and `image` inputs
 <br>
 This model is `fast`
 ### 🔧 Use case 🔧
-This model is perfect for 
+This model is suitable for general use, questions, and tasks
+<br>
+It is recommended to use this model unless the output is unsatisfactory. 
 
 ---
 
