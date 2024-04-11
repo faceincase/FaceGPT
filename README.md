@@ -14,7 +14,7 @@ This section is about available custom models FaceGPT can offer.
 
 ---
 
-### `🌟 FaceGPT Mini 🌟`
+### 🌟 `FaceGPT Mini` 🌟
 
 Default model.
 <br>
@@ -32,7 +32,7 @@ Max `30,000 characters`
 
 ---
 
-### `🔍 FaceGPT Web 🔍`
+### 🔍 `FaceGPT Web` 🔍
 Max `150,000 characters`
 
 ---
