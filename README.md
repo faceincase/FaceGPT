@@ -22,7 +22,7 @@ Max `100,000 characters`
 
 ---
 
-### `FaceGPT Normal`
+### 😐 `FaceGPT Normal` 😐 
 Max `10,000 characters`
 
 ---
