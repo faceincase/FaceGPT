@@ -11,8 +11,18 @@
 
 ### FaceGPT Mini
 
+* Abc
+* Abc
+* Abc
+
 ### FaceGPT Normal
 
+* Abc
+  
+* Abc
+  
+* Abc
+  
 ### FaceGPT Better
   
 </div>
