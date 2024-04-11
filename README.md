@@ -17,7 +17,8 @@ This section is about available custom models FaceGPT can offer.
 ### 🌟 `FaceGPT Mini` 🌟
 Maximum input: `100,000 characters`
 <br>
-- [ ] Supports `file inputs` and `image inputs`
+- [x] `file inputs`
+- [x] `image inputs`
 <br>
 This model is `fast`
 <br><br>
