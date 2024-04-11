@@ -43,7 +43,7 @@ Supports `file inputs` and `image inputs`
 <br>
 This model is `slow`
 <br>
-This model is dijawjdawdawdawdadawdawdawda
+This model is perfect for `hard` and `complicated` tasks.
 
 ---
 
@@ -54,7 +54,7 @@ Has `internet access`
 <br>
 This model is `slow`
 <br><br>
-This model is perfect if you require `up-to-date` informations from internet for your response.
+This model is perfect if you require `up-to-date` data from internet for your response.
 
 ---
 
