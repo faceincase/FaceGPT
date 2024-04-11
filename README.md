@@ -11,7 +11,7 @@
 <br><br><br><br><br><br>
   
 # 🤖 __`MODELS`__ 🤖 
-This section is about available custom models FaceGPT can offer.
+This section is about available models FaceGPT can offer.
 
 ---
 
