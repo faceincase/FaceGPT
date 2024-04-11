@@ -9,8 +9,10 @@
 <div align="center">
   
 # 🤖 MODELS 🤖 
+This section is about available custom models FaceGPT can offer.
 
 
+---
 
 ### `FACEGPT Mini`
 
