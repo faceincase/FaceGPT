@@ -13,6 +13,7 @@
 # 🤖 MODELS 🤖 
 
 ### `FACEGPT Mini`
+=====
 Default model.
 <br>
 `100,000 characters`
