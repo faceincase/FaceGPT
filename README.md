@@ -7,6 +7,8 @@
 </div>
 
 <div align="center">
+
+<br><br><br><br><br><br>
   
 # 🤖 MODELS 🤖 
 This section is about available custom models FaceGPT can offer.
