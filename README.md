@@ -15,30 +15,30 @@ This section is about available custom models FaceGPT can offer.
 ---
 
 ### 🌟 `FaceGPT Mini` 🌟
-Max `100,000 characters`
+`100,000 characters`
 <br>
-Very `fast`
+`fast`
 
 ---
 
 ### 😐 `FaceGPT Normal` 😐 
-Max `10,000 characters`
+`10,000 characters`
 <br>
-Very `fast`
+`fast`
 
 ---
 
 ### ✨ `FaceGPT Better` ✨
-Max `30,000 characters`
+`30,000 characters`
 <br>
 `Slower model`
 
 ---
 
 ### 🔍 `FaceGPT Web` 🔍
-Max `150,000 characters`
+`150,000 characters`
 <br>
-Has `internet access`
+`internet access`
 <br>
 `Fast`
 
