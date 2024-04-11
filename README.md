@@ -12,13 +12,13 @@
   
 # 🤖 MODELS 🤖 
 
-## `FaceGPT Mini`
+## `FACEGPT Mini`
 
-## `NORMAL`
+## `FACEGPT NORMAL`
 
-## `BETTER`
+## `FACEGPT BETTER`
 
-## `NORMAL`
+## `FACEGPT WEB`
 
 
 | **MODEL NAME** | **MAXIMUM INPUT** | **CREDITS USAGE** | **SPEED**     | 
