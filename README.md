@@ -9,6 +9,8 @@
 
 # MODELS
 
+</div>
+
 ### FaceGPT Mini
 
 * Abc
@@ -25,7 +27,7 @@
   
 ### FaceGPT Better
   
-</div>
+
 
 
 # 📰 News
