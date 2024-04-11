@@ -37,7 +37,7 @@ Maximum input: `30,000 characters`
 <br>
 Supports `file inputs` and `image inputs`
 <br>
-`Slower model`
+This model is `slow`
 
 ---
 
@@ -46,7 +46,7 @@ Maximum input: `150,000 characters`
 <br>
 Has `internet access`
 <br>
-`Fast`
+This model is `fast` - depending on input size.
 
 ---
 
