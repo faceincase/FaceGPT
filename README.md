@@ -46,7 +46,7 @@ Maximum input: `150,000 characters`
 <br>
 Has `internet access`
 <br>
-This model is `fast` - depending on input size.
+This model is `slow`
 
 ---
 
