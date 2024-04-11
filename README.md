@@ -68,7 +68,7 @@ Maximum input: `200,000 characters`
 <br>
 Credits usage `very high`.
 ### 🔧 Use case 🔧
-What
+`Model coming soon...`
 
 ---
 
