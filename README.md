@@ -8,6 +8,10 @@
 </div>
 
 
+# 🔥 News
+![image](https://github.com/faceincase/FaceGPT/assets/83787101/18b16a45-1a43-43af-8327-a05378b9cf17)
+
+
 # 🔥 Arguments
 ## Enhancement
 - **`/better`** - Improved performance, better responses. 💸
