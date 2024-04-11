@@ -10,7 +10,7 @@
 
 # 📰 News
 - Initiated development of new model - **`FaceGPT Mini 🌟`**
-- **`FaceGPT Mini`** boasts the largest context window of 170,000 characters
+- **`FaceGPT Mini`** has the largest context window of **170,000 characters**
   - Compared to `15,000` for `FaceGPT Normal` and `20,000` for `FaceGPT Better` models
 - **`FaceGPT Mini`** is the fastest and most cost-effective model in the FaceGPT lineup
 
