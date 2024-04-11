@@ -13,15 +13,9 @@
 - **`FaceGPT Mini`** has the largest context window of **170,000 characters**
   - Compared to `15,000` for `FaceGPT Normal` and `20,000` for `FaceGPT Better` models
 - **`FaceGPT Mini`** is the fastest and most cost-effective model in the FaceGPT lineup
+- Additionally, this model will be able to handle images!
 
 ![image](https://github.com/faceincase/FaceGPT/assets/83787101/18b16a45-1a43-43af-8327-a05378b9cf17)
-
-
-| Model | Max Characters | Vision | Speed |
-| --- | --- | --- | --- |
-| MINI | 170,000 | :white_check_mark: | Fastest |
-| NORMAL | 15,000 | :x: | Fast |
-| BETTER | 20,000 | :white_check_mark: | Slowest |
 
 # 🔥 Arguments
 ## Enhancement
