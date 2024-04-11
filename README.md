@@ -12,8 +12,11 @@
   
 # 🤖 MODELS 🤖 
 
-
 ## `MINI`
+
+## `NORMAL`
+
+## `BETTER`
 
 ## `NORMAL`
 
