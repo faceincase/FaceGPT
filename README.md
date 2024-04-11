@@ -60,6 +60,14 @@ Credits usage `high`
 This model is perfect for `hard` and `complicated` tasks.
 <br>
 It is recommended to use this model to do `more advanced code`, `maths` and tasks that require a `lot of processing`.
+---
+
+### 🚀 `FaceGPT Ultra` 🚀
+Maximum input: `200,000 characters`
+<br>
+Credits usage `very high`.
+### 🔧 Use case 🔧
+What
 
 ---
 
