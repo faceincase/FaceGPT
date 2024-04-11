@@ -12,7 +12,7 @@
   
 # 🤖 MODELS 🤖 
 
-## `MINI`
+## `FaceGPT Mini`
 
 ## `NORMAL`
 
