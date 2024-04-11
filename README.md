@@ -22,23 +22,23 @@ Maximum input: `100,000 characters`
 ---
 
 ### 😐 `FaceGPT Normal` 😐 
-Maximum input: <br> `10,000 characters`
+Maximum input: `10,000 characters`
 <br>
 `fast`
 
 ---
 
 ### ✨ `FaceGPT Better` ✨
-Maximum input: <br> `30,000 characters`
+Maximum input: `30,000 characters`
 <br>
 `Slower model`
 
 ---
 
 ### 🔍 `FaceGPT Web` 🔍
-Maximum input: <br> `150,000 characters`
+Maximum input: `150,000 characters`
 <br>
-`internet access`
+Has `internet access`
 <br>
 `Fast`
 
