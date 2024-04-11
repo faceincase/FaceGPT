@@ -14,11 +14,11 @@
 
 ## `FACEGPT Mini`
 
-## `FACEGPT NORMAL`
+## `FACEGPT Normal`
 
-## `FACEGPT BETTER`
+## `FACEGPT Better`
 
-## `FACEGPT WEB`
+## `FACEGPT Web`
 
 
 | **MODEL NAME** | **MAXIMUM INPUT** | **CREDITS USAGE** | **SPEED**     | 
