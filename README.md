@@ -20,7 +20,7 @@ Maximum input: `100,000 characters`
 Supports both `file` and `image` inputs
 <br>
 This model is `fast`
-### Use case 🔧
+### 🔧 Use case 🔧
 This model is perfect for 
 
 ---
