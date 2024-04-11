@@ -22,7 +22,7 @@ Default model.
 `10,000 characters`
 
 ### `✨ FACEGPT Better ✨`
-`30,000 characters`
+Max `30,000 characters`
 
 ### `FACEGPT Web`
 `150,000 characters`
