@@ -23,11 +23,15 @@ Very `fast`
 
 ### 😐 `FaceGPT Normal` 😐 
 Max `10,000 characters`
+<br>
+Very `fast`
 
 ---
 
 ### ✨ `FaceGPT Better` ✨
 Max `30,000 characters`
+<br>
+`Slower model`
 
 ---
 
@@ -35,6 +39,8 @@ Max `30,000 characters`
 Max `150,000 characters`
 <br>
 Has `internet access`
+<br>
+`Fast`
 
 ---
 
