@@ -53,7 +53,7 @@ Maximum input: `150,000 characters`
 Has `internet access`
 <br>
 This model is `slow`
-<br>
+<br><br>
 This model is perfect if you require `up-to-date` informations from internet for your response.
 
 ---
