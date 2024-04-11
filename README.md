@@ -20,7 +20,7 @@ Maximum input: `100,000 characters`
 Supports both `file` and `image` inputs
 <br>
 This model is `fast`
-#### 🔧 Use case 🔧
+### 🔧 Use case 🔧
 This model is perfect for 
 
 ---
@@ -31,7 +31,7 @@ Maximum input: `10,000 characters`
 Supports only `file` inputs
 <br>
 This model is `fast`
-### Use case 🔧
+### 🔧 Use case 🔧
 This model is dijawjdawdawdawdadawdawdawda
 
 ---
@@ -42,7 +42,7 @@ Maximum input: `30,000 characters`
 Supports both `file` and `image` inputs
 <br>
 This model is `slow`
-### Use case
+### 🔧 Use case 🔧
 This model is perfect for `hard` and `complicated` tasks.
 
 ---
@@ -53,7 +53,7 @@ Maximum input: `150,000 characters`
 Has `internet access`
 <br>
 This model is `slow`
-### Use case
+### 🔧 Use case 🔧
 This model is perfect if you require `up-to-date` data from internet for your response.
 
 ---
