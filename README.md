@@ -14,12 +14,16 @@
 
 ## `FACEGPT Mini`
 > Default model.
+`100,000 characters`
 
 ## `FACEGPT Normal`
+`10,000 characters`
 
 ## `FACEGPT Better`
+`30,000 characters`
 
 ## `FACEGPT Web`
+`150,000 characters`
 
 
 | **MODEL NAME** | **MAXIMUM INPUT** | **CREDITS USAGE** | **SPEED**     | 
