@@ -4,11 +4,10 @@
   <h3>Made using</h3>
   
   ![Made](https://skillicons.dev/icons?i=js,py,nodejs,cpp,discordjs,discord)
+</div>
 
-
-
+<div align="center">
 # MODELS
-
 </div>
 
 ### FaceGPT Mini
