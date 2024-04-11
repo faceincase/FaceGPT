@@ -63,6 +63,8 @@ Maximum input: `150,000 characters`
 <br>
 Has `internet access`
 <br>
+Supports only `text` input.
+<br>
 This model is `slow`
 <br>
 Credits usage `moderate`.
