@@ -34,7 +34,9 @@ Supports only `file` inputs
 <br>
 This model is `fast`
 ### 🔧 Use case 🔧
-This model is dijawjdawdawdawdadawdawdawda
+This model performs slighlty better then `FaceGPT Mini`.
+<br>
+It is recommended to use this model if output from `FaceGPT Mini` is not satisfactory.
 
 ---
 
@@ -46,6 +48,8 @@ Supports both `file` and `image` inputs
 This model is `slow`
 ### 🔧 Use case 🔧
 This model is perfect for `hard` and `complicated` tasks.
+<br>
+It is recommended to use this model to do `more advanced code`, `maths` and other tasks that require a `lot of processing`.
 
 ---
 
@@ -57,6 +61,8 @@ Has `internet access`
 This model is `slow`
 ### 🔧 Use case 🔧
 This model is perfect if you require `up-to-date` data from internet for your response.
+<br>
+It is recommended to use this model if you require an response with current  `data` from `internet`
 
 ---
 
