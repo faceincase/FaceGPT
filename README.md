@@ -19,6 +19,8 @@ Maximum input: `100,000 characters`
 Supports both `file` and `image` inputs
 <br>
 This model is `fast`
+<br>
+Credits usage `low`
 ### 🔧 Use case 🔧
 This model is suitable for general use, questions, and tasks
 <br>
@@ -32,6 +34,8 @@ Maximum input: `10,000 characters`
 Supports only `file` inputs
 <br>
 This model is `fast`
+<br>
+Credits usage `low`
 ### 🔧 Use case 🔧
 This model performs slighlty better then `FaceGPT Mini`.
 <br>
@@ -45,6 +49,8 @@ Maximum input: `30,000 characters`
 Supports both `file` and `image` inputs
 <br>
 This model is `slow`
+<br>
+Credits usage `high`
 ### 🔧 Use case 🔧
 This model is perfect for `hard` and `complicated` tasks.
 <br>
@@ -58,6 +64,8 @@ Maximum input: `150,000 characters`
 Has `internet access`
 <br>
 This model is `slow`
+<br>
+Credits usage `moderate`.
 ### 🔧 Use case 🔧
 This model is perfect if you require `up-to-date` data from internet for your response.
 <br>
