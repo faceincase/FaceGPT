@@ -27,7 +27,7 @@ Max `10,000 characters`
 
 ---
 
-### `✨ FaceGPT Better ✨`
+### ✨ `FaceGPT Better` ✨
 Max `30,000 characters`
 
 ---
