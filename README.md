@@ -14,21 +14,21 @@
 
 ### FaceGPT Mini
 
-* Abc
-* Abc
+* 📏 Maximum input: 170,000 characters.
+* 🎨
 * Abc
 
 ### FaceGPT Normal
 
-* Abc
-  
-* Abc
-  
+* 📏 Maximum input: 15,000 characters.
+* 🎨
 * Abc
   
 ### FaceGPT Better
   
-
+* 📏 Maximum input: 20,000 characters.
+* 🎨
+* Abc
 
 
 # 📰 News
