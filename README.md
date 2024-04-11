@@ -16,6 +16,13 @@
 
 ![image](https://github.com/faceincase/FaceGPT/assets/83787101/18b16a45-1a43-43af-8327-a05378b9cf17)
 
+
+| Model | Parameters | Context | Vision | Speed |
+| --- | --- | --- | --- | --- |
+| MINI | 170,000 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| NORMAL | 15,000 | :x: | :x: | :white_check_mark: |
+| BETTER | 20,000 | :white_check_mark: | :x: | :x: |
+
 # 🔥 Arguments
 ## Enhancement
 - **`/better`** - Improved performance, better responses. 💸
