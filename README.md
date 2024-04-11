@@ -12,17 +12,17 @@
   
 # 🤖 MODELS 🤖 
 
-## `FACEGPT Mini`
+### `FACEGPT Mini`
 > Default model.
 `100,000 characters`
 
-## `FACEGPT Normal`
+### `FACEGPT Normal`
 `10,000 characters`
 
-## `FACEGPT Better`
+### `FACEGPT Better`
 `30,000 characters`
 
-## `FACEGPT Web`
+### `FACEGPT Web`
 `150,000 characters`
 
 
