@@ -19,7 +19,7 @@ Maximum input: `100,000 characters`
 <br>
 Supports `file inputs` and `image inputs`
 <br>
-`fast`
+This model is `fast`
 
 ---
 
@@ -28,7 +28,7 @@ Maximum input: `10,000 characters`
 <br>
 Supports `file inputs`
 <br>
-`fast`
+This model is `fast`
 
 ---
 
