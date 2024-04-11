@@ -13,6 +13,7 @@
 # 🤖 MODELS 🤖 
 
 ## `FACEGPT Mini`
+> Default model.
 
 ## `FACEGPT Normal`
 
