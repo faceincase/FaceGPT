@@ -32,7 +32,7 @@ Max `30,000 characters`
 
 ---
 
-### `🔍 FaceGPT Web 🔍 `
+### `🔍 FaceGPT Web 🔍`
 Max `150,000 characters`
 
 ---
