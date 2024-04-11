@@ -19,9 +19,9 @@
 
 | Model | Parameters | Context | Vision | Speed |
 | --- | --- | --- | --- | --- |
-| MINI | 170,000 | HAS | - [ ] | FASTEST |
-| NORMAL | 15,000 | NO | - [x] | FAST |
-| BETTER | 20,000 | HAS | - [ ] | SLOWEST |
+| MINI | 170,000 | HAS | - [ ] a | FASTEST |
+| NORMAL | 15,000 | NO | - [x] b | FAST |
+| BETTER | 20,000 | HAS | - [ ] c | SLOWEST |
 
 # 🔥 Arguments
 ## Enhancement
