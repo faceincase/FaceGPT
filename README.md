@@ -63,19 +63,6 @@ It is recommended to use this model to do `more advanced code`, `maths` and task
 
 ---
 
-### 🚀 `FaceGPT Ultra` 🚀
-Maximum input: `200,000 characters`
-<br>
-Credits usage `very high`.
-### 🔧 Use case 🔧
-`Model coming soon...`
-<br>
-This model will be a `comprehensive solution`, combining the capabilities of `all` previous models.
-<br>
-This model will intelligently determine the `optimal approach` for each user query.
-
----
-
 ### 🔍 `FaceGPT Web` 🔍
 Maximum input: `150,000 characters`
 <br>
@@ -90,6 +77,19 @@ Credits usage `moderate`.
 This model is perfect if you require `up-to-date` data from internet for your response.
 <br>
 It is recommended to use this model if you require an response with current  `data` from `internet`
+
+---
+
+### 🚀 `FaceGPT Ultra` 🚀
+Maximum input: `200,000 characters`
+<br>
+Credits usage `very high`.
+### 🔧 Use case 🔧
+`Model coming soon...`
+<br>
+This model will be a `comprehensive solution`, combining the capabilities of `all` previous models.
+<br>
+This model will intelligently determine the `optimal approach` for each user query.
 
 ---
 
