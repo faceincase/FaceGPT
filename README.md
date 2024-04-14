@@ -69,6 +69,8 @@ Maximum input: `200,000 characters`
 Credits usage `very high`.
 ### 🔧 Use case 🔧
 `Model coming soon...`
+`This model will be a comprehensive solution, combining the capabilities of all previous models.`
+`This model will intelligently determine the optimal approach for each user query.`
 
 ---
 
